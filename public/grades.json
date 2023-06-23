@@ -1,0 +1,157 @@
+[
+    {
+        "prozentpunkte": [100, 95],
+        "grade_number": "1",
+        "msg": "sehr gut"
+    },
+    {
+        "prozentpunkte": [95, 93],
+        "grade_number": "1.1",
+        "msg": "sehr gut"
+    },
+    {
+        "prozentpunkte": [93, 92],
+        "grade_number": "1.2",
+        "msg": "sehr gut"
+    },
+    {
+        "prozentpunkte": [92, 90],
+        "grade_number": "1.3",
+        "msg": "sehr gut"
+    },
+    {
+        "prozentpunkte": [90, 89],
+        "grade_number": "1.4",
+        "msg": "sehr gut"
+    },
+    {
+        "prozentpunkte": [89, 87],
+        "grade_number": "1.5",
+        "msg": "sehr gut"
+    },
+    {
+        "prozentpunkte": [87, 86],
+        "grade_number": "1.6",
+        "msg": "gut"
+    },
+    {
+        "prozentpunkte": [86, 84],
+        "grade_number": "1.7",
+        "msg": "sehr"
+    },
+    {
+        "prozentpunkte": [84, 83],
+        "grade_number": "1.8",
+        "msg": "gut"
+    },
+    {
+        "prozentpunkte": [83, 81],
+        "grade_number": "1.9",
+        "msg": "gut"
+    },
+    {
+        "prozentpunkte": [81, 80],
+        "grade_number": "2",
+        "msg": "gut"
+    },
+    {
+        "prozentpunkte": [80, 78],
+        "grade_number": "2.1",
+        "msg": "gut"
+    },
+    {
+        "prozentpunkte": [78, 77],
+        "grade_number": "2.2",
+        "msg": "sehr"
+    },
+    {
+        "prozentpunkte": [77, 75],
+        "grade_number": "2.3",
+        "msg": "gut"
+    },
+    {
+        "prozentpunkte": [75, 74],
+        "grade_number": "2.4",
+        "msg": "gut"
+    },
+    {
+        "prozentpunkte": [74, 72],
+        "grade_number": "2.5",
+        "msg": "gut"
+    },
+    {
+        "prozentpunkte": [72, 71],
+        "grade_number": "2.6",
+        "msg": "befriedigend"
+    },
+    {
+        "prozentpunkte": [71, 69],
+        "grade_number": "2.7",
+        "msg": "befriedigend"
+    },
+    {
+        "prozentpunkte": [69, 68],
+        "grade_number": "2.8",
+        "msg": "befriedigend"
+    },
+    {
+        "prozentpunkte": [68, 66],
+        "grade_number": "2.9",
+        "msg": "befriedigend"
+    },
+    {
+        "prozentpunkte": [66, 65],
+        "grade_number": "3",
+        "msg": "befriedigend"
+    },
+    {
+        "prozentpunkte": [65, 63],
+        "grade_number": "3.1",
+        "msg": "befriedigend"
+    },
+    {
+        "prozentpunkte": [63, 62],
+        "grade_number": "3.2",
+        "msg": "befriedigend"
+    },
+    {
+        "prozentpunkte": [62, 60],
+        "grade_number": "3.3",
+        "msg": "befriedigend"
+    },
+    {
+        "prozentpunkte": [60, 59],
+        "grade_number": "3.4",
+        "msg": "befriedigend"
+    },
+    {
+        "prozentpunkte": [50, 57],
+        "grade_number": "3.5",
+        "msg": "ausreichend"
+    },
+    {
+        "prozentpunkte": [57, 56],
+        "grade_number": "3.6",
+        "msg": "ausreichend"
+    },
+    {
+        "prozentpunkte": [56, 54],
+        "grade_number": "3.7",
+        "msg": "ausreichend"
+    },
+    {
+        "prozentpunkte": [54, 53],
+        "grade_number": "3.8",
+        "msg": "ausreichend"
+    },
+    {
+        "prozentpunkte": [53, 51],
+        "grade_number": "3.9",
+        "msg": "ausreichend"
+    },
+    {
+        "prozentpunkte": [51, 50],
+        "grade_number": "4",
+        "msg": "ausreichend"
+    }
+]
