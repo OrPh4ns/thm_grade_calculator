@@ -33,11 +33,11 @@
 
                     @if(session('msg'))
                         <div class="alert alert-secondary mt-3">
-                            Note in % {{ session('msg')[0] }}
+                            <h3>Note in %</h3> {{ session('msg')[0] }}
                             <hr>
-                            Note in Zahl {{ session('msg')[1] }}
+                            <h3>Note in Zahl</h3> {{ session('msg')[1] }}
                             <hr>
-                            Ergebnis {{ session('msg')[2] }}
+                            <h3>Ergebnis</h3> {{ session('msg')[2] }}
                         </div>
                     @endif
                 </form>

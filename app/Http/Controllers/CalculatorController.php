@@ -16,22 +16,21 @@ class CalculatorController extends Controller
 
         $number = $request->input('num');
 
-        if($number<50)
+        if ($number < 50)
         {
-            $result = [];
-            return redirect('/')->with('msg',[$number,5, "Sie sind leider durchgefallen"]);
-        }
-        else
+            return redirect('/')->with('msg', [$number, 5, "Sie sind leider durchgefallen"]);
+        } elseif ($number > 100)
+        {
+            return redirect('/')->with('msg', [$number, 0, "für diesen Punkt gibt es keine Note"]);
+        } else
         {
             foreach ($this->grades as $grade)
             {
-                if($number<=$grade->prozentpunkte[0] && $number>=$grade->prozentpunkte[1])
-                {
-                    return redirect('/')->with('msg',[$number,$grade->grade_number, "Bestanden. ".$grade->msg]);
+                if ($number <= $grade->prozentpunkte[0] && $number >= $grade->prozentpunkte[1]) {
+                    return redirect('/')->with('msg', [$number, $grade->grade_number, "Bestanden. " . $grade->msg]);
                 }
             }
         }
-//        return json_encode(['Numer'=>$number]);
 
     }
 }
